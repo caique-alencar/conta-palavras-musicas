@@ -1,3 +1,12 @@
 <h1> Contador de palavras repetidas em músicas </h1>
 
-Código que conta repetições de palavras em músicas
+Os códigos <code>contagem_musicas_portugues.ipynb</code> e <code>contagem_musicas_ingles.ipynb</code> contam quantas palavras das músicas. Há diferença no código de um idioma para o outro por conta de as estruturas do HTML das páginas ser diferente.
+  
+O código <code>contagem_musicas_csv.ipynb</code> conta quantas vezes cada palavra se repetiu em uma lista de músicas no arquivo <code>musicas.csv</code> e gera outro CSV na saída. Ao executar o programa, os dois devem estar no mesmo diretório.
+
+<b>Observações</b>:
+<ul>
+  <li>Usei o site do Vagalume para escrever o código e a raspagem só funciona com esse site</li>
+  <li>Para adicionar letras de músicas à planilha <code>musicas.csv</code>, usar links do Vagalume</li>
+  <li>O código exige que, antes, sejam instaladas as bibliotecas <code>BeautifulSoup4</code> e <code>Requests</code></li>
+<ul>
