@@ -2,7 +2,9 @@
 
 Os códigos <code>contagem_musicas_portugues.ipynb</code> e <code>contagem_musicas_ingles.ipynb</code> contam quantas palavras uma única música tem. Há diferença no código de um idioma para o outro por conta de as estruturas do HTML das páginas serem diferentes.
   
-O código <code>contagem_musicas_csv.ipynb</code> conta quantas vezes cada palavra se repetiu em uma lista de músicas no arquivo <code>musicas.csv</code> e gera o CSV <code>palavras_repetidas_musicas.csv</code>. Ao executar o programa, os dois devem estar no mesmo diretório.
+O código <code>contagem_musicas_csv.ipynb</code> conta quantas vezes cada palavra se repetiu em uma lista de músicas no arquivo <code>musicas.csv</code> e gera o CSV <code>palavras_repetidas_musicas.csv</code>.
+
+Ao executar o programa, <code>contagem_musicas_csv.ipynb</code> e <code>musicas.csv</code> devem estar no mesmo diretório.
 
 <b>Observações</b>:
 <ul>
